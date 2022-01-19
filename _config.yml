@@ -1,14 +1,16 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Gunmin Lee's Atelier
+tagline:      Research interest in Autonomous Driving and Robotics
 baseurl:      ""
 paginate:     1
 locale:       "en"
+future:       true
 
 # About/contact
-author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+author: 
+  name: Gunmin Lee
+  url:  https://kevin647.github.io//
+
 
 # Gems
 gems:
